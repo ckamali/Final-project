@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Add to Cart</name>
+   <name>Animation check</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>a49befe6-f5a1-49e9-af39-0c1c8348a848</testCaseGuid>
+   <testCaseGuid>316a8f18-ff24-4689-a23a-7adc85a058eb</testCaseGuid>
 </TestCaseEntity>
